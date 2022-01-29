@@ -12,7 +12,7 @@ A pesquisa pode ser feita a partir de senhas, logins, emails e/ou domínios. <br
 #### Instruções:
 - Em um terminal, ou prompt de comando, inicie o **effSearcher.py** utilizando o Python3;
 - Digite o nome (ou a localização exata) do arquivo .txt;
-- Método de busca **com exemplos da amostra** *"base_de_dados.txt"*, disponibilzada [aqui](https://github.com/joaovcoelho/effSearcher/base-exemplo):
+- Método de busca **com exemplos da amostra** *"base_de_dados.txt"*, disponibilzada [aqui](https://github.com/joaovcoelho/effSearcher/tree/main/base-exemplo):
   - **Login exato**: digitando "user", aparecerão todas as ocorrências deste login;
   - **E-mail, independentemente do domínio**: digitando *"suporte.ti"* ou *"fulano.silva37"*, sem o **"@"** aparecerão todas as ocorrências deste e-mail;
   - **E-mail exato**: digitando *"suporte.ti@grupo.empresa.com"*, aparecerão as credenciais especificamente para este e-mail;
@@ -30,7 +30,7 @@ The search can be done using passwords, logins, emails and/or domains. <br>
 #### Instructions:
 - In a terminal, or command prompt, start **effSearcher.py** using Python3;
 - Enter the name (or exact location) of the .txt file;
-- Search method **with sample examples** *"base_de_dados.txt"*, available [here](https://github.com/joaovcoelho/effSearcher/base-exemplo):
+- Search method **with sample examples** *"base_de_dados.txt"*, available [here](https://github.com/joaovcoelho/effSearcher/tree/main/base-exemplo):
    - **Exact login**: typing "user", all occurrences of this login will appear;
    - **E-mail, regardless of domain**: typing *"suporte.ti"* or *"fulano.silva37"*, without **"@"**, all occurrences of this e-mail will appear;
    - **Exact email**: typing *"suporte.ti@grupo.empresa.com"*, the credentials specifically for this email will appear;
