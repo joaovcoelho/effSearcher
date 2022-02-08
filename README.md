@@ -16,7 +16,9 @@ A pesquisa pode ser feita a partir de senhas, logins, emails e/ou domínios. <br
   - **Login exato**: digitando "user", aparecerão todas as ocorrências deste específico login;
   - **E-mail, independentemente do domínio**: digitando *"suporte.ti"* ou *"fulano.silva37"*, sem o **"@"** aparecerão todas as ocorrências deste e-mail, não importando o domínio da ocorrência;
   - **E-mail exato**: digitando *"suporte.ti@grupo.empresa.com"*, aparecerão as credenciais especificamente para **este** e-mail;
-  - **Senha exata**: digitando *"12345678"* aparecerão todas as ocorrências com esta **exata** senha.
+  - **Senha exata**: digitando *"12345678"* aparecerão todas as ocorrências com esta **exata** senha. <br>
+
+**DEMONSTRAÇÃO => [aqui](https://youtu.be/HborZxM0Dkk)** <br>
 
 Obs.: O código-fonte encontra-se inteiramente em português (Brasil neles), e devidamente comentado.<br>
 
@@ -34,7 +36,9 @@ The search can be done using passwords, logins, emails and/or domains. <br>
    - **Exact login**: typing "user", all occurrences of this specific login will appear;
    - **E-mail, regardless of domain**: typing *"suporte.ti"* or *"fulano.silva37"*, without **"@"**, all occurrences of this e-mail will appear, regardless of the occurrence domain;
    - **Exact email**: typing *"suporte.ti@grupo.empresa.com"*, the credentials specifically for **this** email will appear;
-   - **Exact password**: typing *"12345678"* will show all occurrences with this **exact** password.
+   - **Exact password**: typing *"12345678"* will show all occurrences with this **exact** password. <br>
+
+**DEMONSTRATION (PT-BR) => [here](https://youtu.be/HborZxM0Dkk)** <br> 
 
 Obs.: The source code is entirely in Portuguese (you've just been *Brazilified*), and duly commented.<br>
 
